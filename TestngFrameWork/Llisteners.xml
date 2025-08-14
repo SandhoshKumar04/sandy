@@ -1,0 +1,9 @@
+<suite name="listen">
+	<test name = "Listeners">
+		<classes>
+			<class name="test.Listeners">
+			</class>
+		</classes>
+	</test>
+
+</suite>

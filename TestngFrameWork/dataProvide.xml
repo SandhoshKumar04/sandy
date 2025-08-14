@@ -1,0 +1,10 @@
+<!-- -->
+<suite name="Dataprovide">
+	<test name ="DP">
+		<classes>	
+		<class name="test.TestScenarioDataProvider">
+		</class>
+		</classes>
+	</test>
+
+</suite>

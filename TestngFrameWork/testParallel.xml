@@ -1,0 +1,11 @@
+<suite name="PrallelExecution" parallel ="methods" thread-count="2">
+	<test name="Parallel">
+	
+		<classes name = "ParallelExecution">
+			<class name = "test.ParalelTest01" ></class>
+		</classes>
+	
+	</test>
+
+
+</suite>
